@@ -1,4 +1,5 @@
 import argparse
+import os
 
 from cranetoolbox.fileHandler import scan_folder
 from cranetoolbox.importTools import *
@@ -29,7 +30,7 @@ def main():
     print(file_list)
 
     # Process the files and record stats
-    line_count, failure_count = process_files(file_list, opts, path.join(args.output_folder, args.output_name))
+    line_count, failure_count = process_files(file_list, opts, os.path.join(args.output_folder, args.output_name))
     print("wrote ", line_count, " lines", " failures ", failure_count)
 
 
