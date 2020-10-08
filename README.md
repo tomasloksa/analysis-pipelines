@@ -1,7 +1,5 @@
 # Crisis Racism and Narrative Evaluation
-<p>
 <!-- BADGES:START - Do not remove or modify this section -->
-</p>
 <p>
     <img src="https://img.shields.io/github/all-contributors/CRANE-toolbox/analysis-pipelines" alt="Number of contributors"/>
     <img src="https://img.shields.io/github/license/CRANE-toolbox/analysis-pipelines" alt="License"/>
