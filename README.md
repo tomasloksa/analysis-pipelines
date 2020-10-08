@@ -1,10 +1,10 @@
 # Crisis Racism and Narrative Evaluation
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[logo]: https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square 'Number of contributors'
+[all-contributors]: https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square 'Number of contributors'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![All Contributors][logo]](#link)
+[![All Contributors][all-contributors]](#link)
 ![alt text](https://img.shields.io/github/license/CRANE-toolbox/analysis-pipelines "License")
 ![alt text](https://img.shields.io/pypi/v/cranetoolbox "Pypi version")
 ![alt text](https://img.shields.io/github/last-commit/CRANE-toolbox/analysis-pipelines "Last commit")
