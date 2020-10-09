@@ -113,11 +113,20 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "tomasloksa",
+      "name": "Tomáš Lokša",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/28986303?v=4",
+      "profile": "https://github.com/tomasloksa",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "analysis-pipelines",
-  "projectOwner": "CRANE-toolbox",
+  "projectOwner": "tomasloksa",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
